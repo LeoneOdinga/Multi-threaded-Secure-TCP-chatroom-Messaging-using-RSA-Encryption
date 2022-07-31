@@ -9,7 +9,7 @@
 <li>Server Log monitoring and System events logging</li>
 <li>Server Logs Encryption and Decryption using AES-256 algorithm</li>
 <li>Client and Server Authentication</li>
-<li>View All Connected Clients using</li>
+<li>View All Connected Clients</li>
 <li>View Encryption Keys(Public and Private Keys) as well as the encoded versions of the key</li>
 <li>View Online and Offline Clients</li>
 
